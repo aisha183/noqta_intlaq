@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Al-Jazeera';
+    src: url('../css/icons/Al-Jazeera/Al-Jazeera-Arabic-Bold.eot');
+    src: url('../css/icons/Al-Jazeera/Al-Jazeera-Arabic-Bold.eot?#iefix') 
+	format('embedded-opentype'), url('../css/icons/Al-Jazeera/Greta_Arabic_Regular.woff') 
+	format('woff2'), url('../css/icons/Al-Jazeera/Al-Jazeera-Arabic-Regular.woff') 
+	format('woff'), url('../css/icons/Al-Jazeera/Al-Jazeera-Arabic-Regular.ttf') 
+	format('truetype');
+}
